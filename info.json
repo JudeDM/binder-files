@@ -1,7 +1,17 @@
 {
-  "latestVersion": "2.0.1",
-  "minimumRequiredVersion": "2.0.1",
+  "latestVersion": "2.0.2",
+  "minimumRequiredVersion": "2.0.2",
   "updates": [
+    {
+      "version": "2.0.2",
+      "date": "17-08-2025",
+      "notes": [
+        "Исправлена ошибка, из-за которой сторонний текст из буфера обмена мог отправляться в репорт",
+        "Добавлена иконка для очистки поля комбинации клавиш",
+        "Добавлено более детальное логгирование ошибок",
+      ],
+      "downloadUrl": "https://github.com/JudeDM/binder-files/releases/download/2.0.2/GTA5RP.Binder.exe"
+    },
     {
       "version": "2.0.1",
       "date": "17-08-2025",
