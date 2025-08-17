@@ -1,10 +1,16 @@
 {
   "latestVersion": "2.2.0",
-  "minimumRequiredVersion": "1.0.0",
+  "minimumRequiredVersion": "2.1.0",
   "updates": [
     {
+      "version": "2.1.0",
+      "date": "17-08-2025",
+      "notes": [],
+      "downloadUrl": "https://github.com/JudeDM/binder-files/releases/download/2.1.0/GTA5RP.Binder.exe"
+    },
+    {
       "version": "2.0.0",
-      "date": "18-08-2025",
+      "date": "17-08-2025",
       "notes": [
         "Масштабное обновление стека приложения (Python → Rust, TypeScript, CSS)",
         "Масштабный редизайн интерфейса",
