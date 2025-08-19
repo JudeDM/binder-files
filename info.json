@@ -5,12 +5,6 @@
     {
       "version": "2.1.0",
       "date": "19-08-2025",
-      "notes": [],
-      "downloadUrl": "https://github.com/JudeDM/binder-files/releases/download/2.1.0/GTA5RP.Binder.exe"
-    },
-    {
-      "version": "2.0.4",
-      "date": "19-08-2025",
       "notes": [
         "Добавлено отображение в игре статистики по репортам с детальной настройкой в главном меню",
         "Добавлен блок управления системой отправки сообщений: настраиваемые паузы по этапам и выбор режима отправки",
@@ -21,6 +15,13 @@
         "Главное окно теперь можно разворачивать на весь экран",
     	  "Добавлена возможность биндить на кнопки мыши",
         "Прочие визуальные улучшения и исправления"
+      ],
+      "downloadUrl": "https://github.com/JudeDM/binder-files/releases/download/2.1.0/GTA5RP.Binder.exe"
+    },
+    {
+      "version": "2.0.4",
+      "date": "19-08-2025",
+      "notes": [
       ],
       "downloadUrl": "https://github.com/JudeDM/binder-files/releases/download/2.0.4/GTA5RP.Binder.exe"
     },
