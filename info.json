@@ -1,7 +1,14 @@
 {
-  "latestVersion": "2.2.0",
+  "latestVersion": "2.2.1",
   "minimumRequiredVersion": "2.2.0",
   "updates": [
+     {
+      "version": "2.2.1",
+      "date": "21-08-2025",
+      "notes": [
+      ],
+      "downloadUrl": "https://github.com/JudeDM/binder-files/releases/download/2.2.0/GTA5RP.Binder.exe"
+    }, 
     {
       "version": "2.2.0",
       "date": "21-08-2025",
