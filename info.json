@@ -1,7 +1,19 @@
 {
-    "latestVersion": "2.3.3",
-    "minimumRequiredVersion": "2.3.3",
+    "latestVersion": "2.3.4",
+    "minimumRequiredVersion": "2.3.4",
     "updates": [
+        {
+            "version": "2.3.4",
+            "date": "01-12-2025",
+            "notes": [
+                "Добавлена команда force_rename, исправлено сохранение команд weapon_ban и vehicle_ban",
+                "Исправлен баг, из-за которого слетал конфиг после внезапного завершения работы приложения",
+                "Исправлен баг, из-за которого было невозможно взаимодействовать с биндером после автовыдачи",
+                "Исправлен баг, из-за которого было невозможно запустить биндер в случае нестабильного интернет-соединения"
+                
+            ],
+            "downloadUrl": "https://github.com/JudeDM/binder-files/releases/download/2.3.4/GTA5RP.Binder.exe"
+        },
         {
             "version": "2.3.3",
             "date": "01-12-2025",
