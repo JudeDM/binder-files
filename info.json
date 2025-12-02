@@ -5,7 +5,9 @@
             {
             "version": "2.3.6",
             "date": "02-12-2025",
-            "notes": [],
+            "notes": [
+                "Исправлено логгирование ошибок",
+            ],
             "downloadUrl": "https://github.com/JudeDM/binder-files/releases/download/2.3.6/GTA5RP.Binder.exe"
         },
         {
