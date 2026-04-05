@@ -1,20 +1,6 @@
 {
     "latestVersion": "2.7.7",
     "minimumRequiredVersion": "2.3.6",
-    "betaUpdates": [
-        {
-            "version": "2.7.8-beta.1",
-            "date": "05-04-2026",
-            "notes": [],
-            "downloadUrl": "https://github.com/JudeDM/binder-files/releases/download/2.7.8-beta.1/GTA5RP.Binder.exe"
-        },
-        {
-            "version": "2.7.8-beta.2",
-            "date": "05-04-2026",
-            "notes": [],
-            "downloadUrl": "https://github.com/JudeDM/binder-files/releases/download/2.7.8-beta.2/GTA5RP.Binder.exe"
-        }
-    ],
     "updates": [
         {
             "version": "2.7.7",
