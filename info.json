@@ -6,7 +6,7 @@
             "version": "2.7.9",
             "date": "06-04-2026",
             "notes": [
-                "Исправлено ошибка, из-за которой некорректно работал автовход в админку"
+                "Исправлена ошибка, из-за которой некорректно работал автовход в админку"
             ],
             "downloadUrl": "https://github.com/JudeDM/binder-files/releases/download/2.7.9/GTA5RP.Binder.exe"
         },
