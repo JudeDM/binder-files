@@ -471,6 +471,6 @@
             "downloadUrl": "https://github.com/JudeDM/binder-files/releases/download/2.0.0/GTA5RP.Binder.exe"
         }
     ],
-    "apiBaseUrl": "https://binder.bot5rp.top"
+    "apiBaseUrl": "https://binder.bot5rp.top",
     "discordInviteUrl": "https://discord.gg/T3tyhV3x6n"
 }
