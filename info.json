@@ -3,6 +3,15 @@
     "minimumRequiredVersion": "2.3.6",
     "betaUpdates": [
         {
+            "version": "2.8.0-beta.2",
+            "date": "10-05-2026",
+            "notes": [
+                "Исправлена проблема, из-за которой интерфейс оверлея не захватывался программами",
+                "Исправлена ошибка, из-за которой было невозможно в модальном окне изменять параметры сложных команд"
+            ],
+            "downloadUrl": "https://github.com/JudeDM/binder-files/releases/download/2.8.0-beta.2/GTA5RP.Binder.exe"
+        },
+        {
             "version": "2.8.0-beta.1",
             "date": "10-05-2026",
             "notes": [
