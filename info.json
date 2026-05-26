@@ -1,6 +1,6 @@
 {
     "latestVersion": "2.9.1",
-    "minimumRequiredVersion": "2.3.6",
+    "minimumRequiredVersion": "2.8.0",
     "betaUpdates": [
         {
             "version": "2.8.0-beta.7",
