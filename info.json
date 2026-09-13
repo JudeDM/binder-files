@@ -1,8 +1,18 @@
 {
-    "latestVersion": "2.11.0",
+    "latestVersion": "2.11.1",
     "minimumRequiredVersion": "2.11.0",
     "betaUpdates": [],
     "updates": [
+        {
+            "version": "2.11.1",
+            "date": "13-09-2026",
+            "notes": [
+                "Исправлена ошибка, из-за которой блок статуса в оверлее снова появлялся после скрытия",
+                "Повышена стабильность перезапуска приложения после обновления",
+                "Незначительные визуальные изменения"
+            ],
+            "downloadUrl": "https://github.com/JudeDM/binder-files/releases/download/2.11.1/GTA5RP.Binder.exe"
+        },
         {
             "version": "2.11.0",
             "date": "13-09-2026",
