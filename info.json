@@ -1,8 +1,18 @@
 {
-    "latestVersion": "2.11.2",
-    "minimumRequiredVersion": "2.11.2",
+    "latestVersion": "2.11.3",
+    "minimumRequiredVersion": "2.11.3",
     "betaUpdates": [],
     "updates": [
+        {
+            "version": "2.11.3",
+            "date": "15-09-2026",
+            "notes": [
+                "Ускорена работа многих компонентов оверлея",
+                "Снижено потребление ресурсов и повышена стабильность работы",
+                "Выполнены другие технические исправления и улучшения"
+            ],
+            "downloadUrl": "https://github.com/JudeDM/binder-files/releases/download/2.11.3/GTA5RP.Binder.exe"
+        },
         {
             "version": "2.11.2",
             "date": "13-09-2026",
@@ -608,5 +618,6 @@
     ],
     "apiBaseUrl": "https://binder.bot5rp.top",
     "authBaseUrl": "https://binder.bot5rp.top",
+    "bugsinkDsn": "https://f099dabd40d04e6cbd889919f9daf8d3@binder.bugsink.com/1",
     "discordInviteUrl": "https://discord.gg/T3tyhV3x6n"
 }
